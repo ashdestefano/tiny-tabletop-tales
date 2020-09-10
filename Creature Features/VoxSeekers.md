@@ -12,5 +12,5 @@ Bronze clock parts totalling 5 pounds in weight apiece, valued at 3gp for the co
 
 ## Creatures
 
-[Vox Seeker](https://www.dndbeyond.com/monsters/vox-seeker)
+* [Vox Seeker](https://www.dndbeyond.com/monsters/vox-seeker)
 
