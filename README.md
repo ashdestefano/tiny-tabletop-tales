@@ -4,5 +4,9 @@ Welcome to Dom's Complete Encounters! This is a collection of encounters I've cr
 
 If you have requests and feedback for me, please feel free to contact me on social media:
 
-Twitter: domdestefano
-Instagram: domdest22
+* Twitter: domdestefano
+* Instagram: domdest22
+
+### CR1
+
+[Vox Seekers](Creature Features/VoxSeekers.md)
