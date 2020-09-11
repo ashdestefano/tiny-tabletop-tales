@@ -1,6 +1,6 @@
 # Vox Seekers
 
-##### Difficulty: Medium
+##### Combat Difficulty: Medium
 
 ## Summary
 
