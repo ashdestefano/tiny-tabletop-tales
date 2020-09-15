@@ -21,4 +21,4 @@ If you have requests and feedback for me, please feel free to contact me on soci
 
 ### CR1
 
-* [Vox Seekers](Creature Features/VoxSeekers.md)
+* [Vox Seekers](Creature Features/VoxSeekerWorkshop/Index.md)
