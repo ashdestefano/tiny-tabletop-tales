@@ -21,4 +21,5 @@ If you have requests and feedback for me, please feel free to contact me on soci
 
 ### CR1
 
-* [Vox Seekers](Creature Features/VoxSeekers.md)
+* [Vox Seeker Workshop](CreatureFeatures/VoxSeekerWorkshop/Index.md)
+* [Stench Kow Dairy Farm](CreatureFeatures/StenchKowDairyFarm/Index.md)
