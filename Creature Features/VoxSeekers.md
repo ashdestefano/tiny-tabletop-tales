@@ -10,13 +10,13 @@ An engineer's workshop has gone haywire, all of the machinery is running out of 
 
 The four vox seekers will move in a straight line toward the nearest character who spoke within 60 feet.
 
-A large number of gyros and other minor constructs move at random about the shop. These constructs have 4 (1d6+1) HP, and an Armor Class of 12. For the sake of simplicity, you can break these down into four groups, and have them move in a specific initiative order.
+A large number of gyros and other minor constructs move at random about the shop. These constructs have 1 HP, and an Armor Class of 12. For the sake of simplicity, you can break these down into four groups, and have them move in a specific initiative order.
 
 DM's NOTE: None of the constructs described below are combatants. The movement of these constructs is intended to distract and disorient the players, making it difficult to tell them apart from the real aggressors, the vox seekers.
 
 #### Group 1
 
-**Initiative 15:** Four small rolling constructs move 20 feet straight toward a wall, rebound off of it, then move straight in a random direction, at 15 on the initiative order.
+**Initiative 15:** Four small rolling constructs move 20 feet straight toward a wall, rebound off of it, then move straight in a random direction.
 
 #### Group 2
 
