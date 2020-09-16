@@ -1,3 +1,8 @@
+# Stench Kow Dairy Farm
+
+* Challenge Rating: 1
+* Difficulty: Medium to Hard
+
 ### Summary
 
 A farmer is using and selling the poisoned milk of stench kows.
