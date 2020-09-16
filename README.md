@@ -1,6 +1,6 @@
-# Dom's Complete Encounters
+# Kit and Caboodle Encounters for D&D 5th Edition
 
-Welcome to Dom's Complete Encounters! This is a collection of encounters I've crafted for D&D 5th Edition, that will provide the full experience of presenting an encounter to your party, complete with creatures, flavor text, and even maps!
+Welcome to Kit and Caboodle Encounters! This is a collection of encounters crafted for D&D 5th Edition, that will provide the full experience of presenting an encounter to your party, complete with creatures, flavor text, and even maps!
 
 ## But Y Tho?
 
@@ -14,10 +14,26 @@ To that end, these encounters will have detailed "living maps", and simplified i
 
 * These encounters are built with battle maps in mind, and are not optimized for "theater of the mind" play. Very rarely will there be more combatants than there are party members in each encounter, however there may be a lot of non-combatants, or environmental effects that happen at different stages of the battle, and it will be easier for your party to visualize these effects on a map.
 
-If you have requests and feedback for me, please feel free to contact me on social media:
+## Creators
 
-* Twitter: domdestefano
-* Instagram: domdest22
+### Dom (they/them)
+
+Dom is a game designer and web developer of 20 years who has a passion for great content and fun challenges. They have been DMing in the Dungeons & Dragons system since 2nd Edition.
+
+If you have requests and feedback for Dom, please feel free to contact them on social media:
+
+* Twitter: [domdestefano](https://twitter.com/domdestefano)
+* Instagram: [domdest22](https://www.instagram.com/domdest22/)
+
+### Cali (she/her)
+
+Cali is an experienced illustrator and visual artist with a BFA from Tyler School of Art. She has been creating artwork and designing characters from her childhood, and has contributed to many geeky projects.
+
+You can find some of Cali's other work selling accessories and decorative pieces at [Kaos Forge](http://kaosforge.com)
+
+If you have requests and feedback for Cali, please feel free to contact her on social media:
+
+* Instagram: [kaosforge](https://www.instagram.com/kaosforge/)
 
 ### CR 1
 
