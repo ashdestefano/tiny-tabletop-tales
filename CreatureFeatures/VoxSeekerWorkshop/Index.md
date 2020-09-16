@@ -1,4 +1,4 @@
-# Vox Seekers
+# Vox Seeker Workshop
 
 * Challenge Rating: 1
 * Difficulty: Medium to Hard
