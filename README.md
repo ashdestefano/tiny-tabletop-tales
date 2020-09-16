@@ -19,7 +19,13 @@ If you have requests and feedback for me, please feel free to contact me on soci
 * Twitter: domdestefano
 * Instagram: domdest22
 
-### CR1
+### CR 1
 
 * [Vox Seeker Workshop](CreatureFeatures/VoxSeekerWorkshop/Index.md)
 * [Stench Kow Dairy Farm](CreatureFeatures/StenchKowDairyFarm/Index.md)
+* [Cockatrice Rehab](CreatureFeatures/CockatriceRehab/Index.md)
+* [Rust Monster Feeding Ground](CreatureFeatures/RustMonsterFeedingGround/Index.md)
+
+### CR 3
+
+* [Vargouille Infestation](CreatureFeatures/VargouilleInfestation/Index.md)
