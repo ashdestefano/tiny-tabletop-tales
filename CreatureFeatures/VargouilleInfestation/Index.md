@@ -1,7 +1,7 @@
 # Vargouille Infestation
 
-Challenge Rating: 3
-Difficulty: Medium
+* Challenge Rating: 3
+* Difficulty: Medium
 
 ## Summary
 
