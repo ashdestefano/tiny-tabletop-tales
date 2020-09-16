@@ -27,3 +27,6 @@ each day the party is in the village to determine whether the true threat is exp
 * Day 3: Roll a 1d8, on a 4 or lower the vargouille are exposed. The number of vargouille increases to 8 by the next day.
 * Day 4: Roll a 1d10, on a 6 or lower the vargouille are exposed. The number of vargouille increases to 16 by the next day.
 * Day 5: Roll a 1d20, on a 15 or lower the vargouille are exposed. The entire village has become infested, and only the vargouille are remaining.
+
+## Treasure
+
