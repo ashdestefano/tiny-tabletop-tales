@@ -1,10 +1,11 @@
 # Vox Seekers
 
-##### Combat Difficulty: Medium
+* Challenge Rating: 1
+* Difficulty: Medium to Hard
 
 ## Summary
 
-An engineer's workshop has gone haywire, all of the machinery is running out of control, the lights are flickering on and off and disorienting anyone who enters. Four [vox seekers](https://www.dndbeyond.com/monsters/vox-seeker) have escaped from their docking clamps and are nesting on the ceiling, and move toward the last person who spoke on their turn.
+An engineer's workshop has gone haywire, all of the machinery is running out of control, the lights are flickering on and off and disorienting anyone who enters. Four [vox seekers](https://www.dndbeyond.com/monsters/vox-seeker) have escaped from their docking clamps and are nesting on the ceiling, and on their turn will move toward the nearest creature who has spoken in their vicinity.
 
 ## Combat Details
 
