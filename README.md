@@ -4,7 +4,7 @@ Welcome to Kit and Caboodle Encounters! This is a collection of encounters craft
 
 ## But Y Tho?
 
-One of the things I've noticed in the campaigns that I run is that my players completely destroy combat encounters that are supposed to be their CR level, without expending themselves too much. Just looking at monster stat blocks didn't seem to be enough to present challenges to my players. So it occurred to me that if I design an environment specifically for that encounter, and genuinely challenge my players to solve problems in ways that go beyond just rolling attack and damage dice, I may be able to appropriately reflect the challenges presented by the creatures.
+One of the things we've noticed in the campaigns that we run is that our players completely destroy combat encounters that are supposed to be their CR level, without expending themselves too much. Just looking at monster stat blocks didn't seem to be enough to present challenges to our players. So it occurred to us that if we design an environment specifically for that encounter, and genuinely challenge our players to solve problems in ways that go beyond just rolling attack and damage dice, we may be able to appropriately reflect the challenges presented by the creatures.
 
 To that end, these encounters will have detailed "living maps", and simplified instructions for DMs to run encounters that will be engaging and challenging, without being frustrating and tedious or simply throw a slew of enemies at the party.
 
