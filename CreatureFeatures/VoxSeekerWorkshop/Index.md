@@ -45,6 +45,8 @@ Bronze clock parts totalling 5 pounds in weight apiece, valued at 3gp for the co
 
 <img src="1500x1500.png" alt="Vox Seeker Workshop" class="inline"/>
 
+(Tip: Right click the links below and click "Save Link As...")
+
 [1500x1500](1500x1500.png) | [2250x2250](2250x2250.png) | [3000x3000](3000x3000.png)
 
 [DungeonDraft](DungeonDraft.dungeondraft_map) | [Universal Virtual Tabletop](VirtualTableTop.dd2vtt)
