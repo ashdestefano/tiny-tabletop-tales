@@ -1,6 +1,6 @@
-# Kit and Caboodle Encounters for D&D 5th Edition
+# Tiny Tabletop Tales
 
-Welcome to Kit and Caboodle Encounters! This is a collection of encounters crafted for D&D 5th Edition, that will provide the full experience of presenting an encounter to your party, complete with creatures, flavor text, and even maps!
+Welcome to Tiny Tabletop Tales! This is a collection of encounters crafted for D&D 5th Edition, that will provide the full experience of presenting an encounter to your party, complete with creatures, flavor text, and even maps!
 
 ## But Y Tho?
 
