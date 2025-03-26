@@ -23,10 +23,9 @@ At this point, two vargouille inhabit the village. For each day that the party t
 the vargouille have a chance of making more of their kind. However, they also have an increased risk of exposure. Roll on the below table for
 each day the party is in the village to determine whether the true threat is exposed.
 
-* Day 2: Roll a 1d6, on a 1 or 2 the vargouille are exposed. The number of vargouille increases to 4 by the next day.
-* Day 3: Roll a 1d8, on a 4 or lower the vargouille are exposed. The number of vargouille increases to 6 by the next day.
-* Day 4: Roll a 1d10, on a 6 or lower the vargouille are exposed. The number of vargouille increases to 10 by the next day.
-* Day 5: The vargouille are exposed no matter what. The number of vargouille is now 15.
+* Day 2: Roll a 1d10, on a 4 or lower the vargouille are exposed. The number of vargouille increases to 4 by the next day.
+* Day 3: Roll a 1d20, on a 10 or lower the vargouille are exposed. The number of vargouille increases to 6 by the next day.
+* Day 4: The vargouille are exposed no matter what. The number of vargouille increases to 10.
 
 ### Characters
 * Bertram Beetle (halfling) - Tavern Keeper, walks on stilts to reach bar top.
